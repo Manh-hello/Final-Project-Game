@@ -2612,7 +2612,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01ad2da4b634b1b40933f4a42355fa36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LoadSceneButton
-  sceneName: LoadingMap1Scene
+  sceneName: GamePlayMap1
+  loadingScene: LoadingMap1Scene
 --- !u!1 &1349722343
 GameObject:
   m_ObjectHideFlags: 0

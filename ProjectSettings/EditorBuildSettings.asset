@@ -29,5 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LoadingMap1Scene.unity
     guid: afb4d16a753a6e441983c89a807b0df4
+  - enabled: 1
+    path: Assets/Scenes/GamePlayMap1.unity
+    guid: f9b60f358f0968147808e47e37b2b70b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

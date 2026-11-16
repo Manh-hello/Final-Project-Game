@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 8902f760e8bcafb4f9eb4b3a34d80e38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -508433558924264345
+    second: DragonSkill_0
+  - first:
+      213: 3518925286519763827
+    second: DragonSkill_1
+  - first:
+      213: -3948717524654616958
+    second: DragonSkill_2
+  - first:
+      213: -1813166073357091147
+    second: DragonSkill_3
+  - first:
+      213: 4687485123960191566
+    second: DragonSkill_4
+  - first:
+      213: -1608326197715300539
+    second: DragonSkill_5
+  - first:
+      213: -8994612732684919074
+    second: DragonSkill_6
+  - first:
+      213: 3983615998012475451
+    second: DragonSkill_7
+  - first:
+      213: 3860966528248520085
+    second: DragonSkill_8
+  - first:
+      213: -8379081363775105177
+    second: DragonSkill_9
+  - first:
+      213: -2596062253982978211
+    second: DragonSkill_10
+  - first:
+      213: -465868884003994475
+    second: DragonSkill_11
+  - first:
+      213: 6023258794965613589
+    second: DragonSkill_12
+  - first:
+      213: -5352757994666008565
+    second: DragonSkill_13
+  - first:
+      213: -2225759908441279011
+    second: DragonSkill_14
+  - first:
+      213: -6124269519852641709
+    second: DragonSkill_15
+  - first:
+      213: 4284977485097881608
+    second: DragonSkill_16
+  - first:
+      213: 8073631275861479380
+    second: DragonSkill_17
+  - first:
+      213: 4700456771241811408
+    second: DragonSkill_18
+  - first:
+      213: 630705486741557881
+    second: DragonSkill_19
+  - first:
+      213: 4431122072904433259
+    second: DragonSkill_20
+  - first:
+      213: -8877263007770601779
+    second: DragonSkill_21
+  - first:
+      213: -6331141044440700904
+    second: DragonSkill_22
+  - first:
+      213: 353946872458290245
+    second: DragonSkill_23
+  - first:
+      213: 6239005712044758911
+    second: DragonSkill_24
+  - first:
+      213: 4773725526396081222
+    second: DragonSkill_25
+  - first:
+      213: -3910754264017801230
+    second: DragonSkill_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DragonSkill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c7e683f5ea1f8f0800000000000000
+      internalID: -508433558924264345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 768
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373762e67ebb5d030800000000000000
+      internalID: 3518925286519763827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 768
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e0a9025565339c0800000000000000
+      internalID: -3948717524654616958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 768
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beb2c6101756d6e0800000000000000
+      internalID: -1813166073357091147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_4
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 768
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a339782ea4d0140800000000000000
+      internalID: 4687485123960191566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f893e28d31ea9e0800000000000000
+      internalID: -1608326197715300539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 512
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede1c180067bc2380800000000000000
+      internalID: -8994612732684919074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 512
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38c813e4a5a84730800000000000000
+      internalID: 3983615998012475451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 512
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d1de5e998e49530800000000000000
+      internalID: 3860966528248520085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_9
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 512
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d618d4e587bb80800000000000000
+      internalID: -8379081363775105177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f6b80722fe8fbd0800000000000000
+      internalID: -2596062253982978211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 256
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594c801e7b6e889f0800000000000000
+      internalID: -465868884003994475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_12
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 256
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c3c2026f9e69350800000000000000
+      internalID: 6023258794965613589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_13
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 256
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00ec47c6fe27b5b0800000000000000
+      internalID: -5352757994666008565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_14
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 256
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53d06e7238c11e0800000000000000
+      internalID: -2225759908441279011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3526e68c159320ba0800000000000000
+      internalID: -6124269519852641709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8005ec5e15c477b30800000000000000
+      internalID: 4284977485097881608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_17
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df05359edc4b0070800000000000000
+      internalID: 8073631275861479380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd92f387806b3140800000000000000
+      internalID: 4700456771241811408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DragonSkill_19
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 0
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972de1f6c47b0c800800000000000000
+      internalID: 630705486741557881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a70e4d0a9ee7c5944adadf8fac3d7c97
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":307.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DragonSkill_0: -508433558924264345
+      DragonSkill_1: 3518925286519763827
+      DragonSkill_10: -2596062253982978211
+      DragonSkill_11: -465868884003994475
+      DragonSkill_12: 6023258794965613589
+      DragonSkill_13: -5352757994666008565
+      DragonSkill_14: -2225759908441279011
+      DragonSkill_15: -6124269519852641709
+      DragonSkill_16: 4284977485097881608
+      DragonSkill_17: 8073631275861479380
+      DragonSkill_18: 4700456771241811408
+      DragonSkill_19: 630705486741557881
+      DragonSkill_2: -3948717524654616958
+      DragonSkill_3: -1813166073357091147
+      DragonSkill_4: 4687485123960191566
+      DragonSkill_5: -1608326197715300539
+      DragonSkill_6: -8994612732684919074
+      DragonSkill_7: 3983615998012475451
+      DragonSkill_8: 3860966528248520085
+      DragonSkill_9: -8379081363775105177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

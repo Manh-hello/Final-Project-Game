@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: fd2afa27c40a71146bece999e363251e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7809710180505971216
+    second: sword-slash-90656d01_0
+  - first:
+      213: 7302351281715065588
+    second: sword-slash-90656d01_1
+  - first:
+      213: 822227891607198957
+    second: sword-slash-90656d01_2
+  - first:
+      213: -8750259927167583626
+    second: sword-slash-90656d01_3
+  - first:
+      213: -5294368751091124603
+    second: sword-slash-90656d01_4
+  - first:
+      213: 9072016715664462272
+    second: sword-slash-90656d01_5
+  - first:
+      213: 4439604044382952605
+    second: sword-slash-90656d01_6
+  - first:
+      213: 8163508277300646559
+    second: sword-slash-90656d01_7
+  - first:
+      213: 4239724305462085503
+    second: sword-slash-90656d01_8
+  - first:
+      213: -6549876617601774323
+    second: sword-slash-90656d01_9
+  - first:
+      213: -7920779312822512359
+    second: sword-slash-90656d01_10
+  - first:
+      213: 8337882234864215823
+    second: sword-slash-90656d01_11
+  - first:
+      213: -7525838429844776690
+    second: sword-slash-90656d01_12
+  - first:
+      213: 9164999608931751497
+    second: sword-slash-90656d01_13
+  - first:
+      213: -4339794167809013812
+    second: sword-slash-90656d01_14
+  - first:
+      213: -1047335699911368001
+    second: sword-slash-90656d01_15
+  - first:
+      213: -6142156327612121722
+    second: sword-slash-90656d01_16
+  - first:
+      213: 5135960401760397905
+    second: sword-slash-90656d01_17
+  - first:
+      213: -6855696984403289894
+    second: sword-slash-90656d01_18
+  - first:
+      213: 1584923455448382598
+    second: sword-slash-90656d01_19
+  - first:
+      213: 8712497231002128685
+    second: sword-slash-90656d01_20
+  - first:
+      213: -20298468095452929
+    second: sword-slash-90656d01_21
+  - first:
+      213: 4138607201720661496
+    second: sword-slash-90656d01_22
+  - first:
+      213: -3401465694510229454
+    second: sword-slash-90656d01_23
+  - first:
+      213: 4037793754622882398
+    second: sword-slash-90656d01_24
+  - first:
+      213: 6993852760495081599
+    second: sword-slash-90656d01_25
+  - first:
+      213: -1528214344080461355
+    second: sword-slash-90656d01_26
+  - first:
+      213: -4817114124643650701
+    second: sword-slash-90656d01_27
+  - first:
+      213: 1458726164712966634
+    second: sword-slash-90656d01_28
+  - first:
+      213: -5744692268135816775
+    second: sword-slash-90656d01_29
+  - first:
+      213: 5540477000824224910
+    second: sword-slash-90656d01_30
+  - first:
+      213: -680519413600778756
+    second: sword-slash-90656d01_31
+  - first:
+      213: 3163853741683175686
+    second: sword-slash-90656d01_32
+  - first:
+      213: -394265924214063978
+    second: sword-slash-90656d01_33
+  - first:
+      213: -1985615238308468270
+    second: sword-slash-90656d01_34
+  - first:
+      213: 5295726653333146382
+    second: sword-slash-90656d01_35
+  - first:
+      213: -6463990018140763949
+    second: sword-slash-90656d01_36
+  - first:
+      213: -1944807816042928523
+    second: sword-slash-90656d01_37
+  - first:
+      213: -7280181196065082333
+    second: sword-slash-90656d01_38
+  - first:
+      213: 3821770268324778531
+    second: sword-slash-90656d01_39
+  - first:
+      213: 7189014119689362321
+    second: sword-slash-90656d01_40
+  - first:
+      213: -5565561454610547924
+    second: sword-slash-90656d01_41
+  - first:
+      213: -8216421402642023397
+    second: sword-slash-90656d01_42
+  - first:
+      213: 8161809464041371446
+    second: sword-slash-90656d01_43
+  - first:
+      213: 7272137408227089145
+    second: sword-slash-90656d01_44
+  - first:
+      213: -5271063837974725461
+    second: sword-slash-90656d01_45
+  - first:
+      213: -1111312815681573667
+    second: sword-slash-90656d01_46
+  - first:
+      213: 2862896780884929874
+    second: sword-slash-90656d01_47
+  - first:
+      213: 3443396476548314276
+    second: sword-slash-90656d01_48
+  - first:
+      213: 2462667871103538620
+    second: sword-slash-90656d01_49
+  - first:
+      213: -3894638939874626873
+    second: sword-slash-90656d01_50
+  - first:
+      213: 1441039934714267424
+    second: sword-slash-90656d01_51
+  - first:
+      213: 7541724354370456956
+    second: sword-slash-90656d01_52
+  - first:
+      213: 8857993633236600874
+    second: sword-slash-90656d01_53
+  - first:
+      213: 8717409785041455367
+    second: sword-slash-90656d01_54
+  - first:
+      213: -650442982431113032
+    second: sword-slash-90656d01_55
+  - first:
+      213: -2268867954345602275
+    second: sword-slash-90656d01_56
+  - first:
+      213: 6391432101928293976
+    second: sword-slash-90656d01_57
+  - first:
+      213: -5874924608295199240
+    second: sword-slash-90656d01_58
+  - first:
+      213: 8758279122752256984
+    second: sword-slash-90656d01_59
+  - first:
+      213: 1813789046015330477
+    second: sword-slash-90656d01_60
+  - first:
+      213: -3512651459365836711
+    second: sword-slash-90656d01_61
+  - first:
+      213: -1324096292713590974
+    second: sword-slash-90656d01_62
+  - first:
+      213: 3742623529714969170
+    second: sword-slash-90656d01_63
+  - first:
+      213: 7988331362939900195
+    second: sword-slash-90656d01_64
+  - first:
+      213: -2500831317888488361
+    second: sword-slash-90656d01_65
+  - first:
+      213: 2306927490133218526
+    second: sword-slash-90656d01_66
+  - first:
+      213: 3319045933755506527
+    second: sword-slash-90656d01_67
+  - first:
+      213: 4735474169066940081
+    second: sword-slash-90656d01_68
+  - first:
+      213: 1784846082125223276
+    second: sword-slash-90656d01_69
+  - first:
+      213: 3817979339808178223
+    second: sword-slash-90656d01_70
+  - first:
+      213: 6079433017348154359
+    second: sword-slash-90656d01_71
+  - first:
+      213: 4542260993861730934
+    second: sword-slash-90656d01_72
+  - first:
+      213: -261816057652591956
+    second: sword-slash-90656d01_73
+  - first:
+      213: -6864920564283987759
+    second: sword-slash-90656d01_74
+  - first:
+      213: 941654484532866215
+    second: sword-slash-90656d01_75
+  - first:
+      213: 31856197347171158
+    second: sword-slash-90656d01_76
+  - first:
+      213: 282427764895744579
+    second: sword-slash-90656d01_77
+  - first:
+      213: -9037958249746090207
+    second: sword-slash-90656d01_78
+  - first:
+      213: 1807659015188223461
+    second: sword-slash-90656d01_79
+  - first:
+      213: -1060054733581591742
+    second: sword-slash-90656d01_80
+  - first:
+      213: 7518230203620745728
+    second: sword-slash-90656d01_81
+  - first:
+      213: -1329713171219798862
+    second: sword-slash-90656d01_82
+  - first:
+      213: 5337447693580794593
+    second: sword-slash-90656d01_83
+  - first:
+      213: 8481000272980167509
+    second: sword-slash-90656d01_84
+  - first:
+      213: 7334938633732041867
+    second: sword-slash-90656d01_85
+  - first:
+      213: -984888678794972948
+    second: sword-slash-90656d01_86
+  - first:
+      213: 4294812465585137572
+    second: sword-slash-90656d01_87
+  - first:
+      213: -799336999280315024
+    second: sword-slash-90656d01_88
+  - first:
+      213: 4344746143942326591
+    second: sword-slash-90656d01_89
+  - first:
+      213: -6676111846869067949
+    second: sword-slash-90656d01_90
+  - first:
+      213: 6145404399965118991
+    second: sword-slash-90656d01_91
+  - first:
+      213: -1696108473711209759
+    second: sword-slash-90656d01_92
+  - first:
+      213: 7208989750057893769
+    second: sword-slash-90656d01_93
+  - first:
+      213: -9145521896475292479
+    second: sword-slash-90656d01_94
+  - first:
+      213: -7795056574881604837
+    second: sword-slash-90656d01_95
+  - first:
+      213: 7316664999444605218
+    second: sword-slash-90656d01_96
+  - first:
+      213: 5194547152294783000
+    second: sword-slash-90656d01_97
+  - first:
+      213: 1671133362596374405
+    second: sword-slash-90656d01_98
+  - first:
+      213: -7593057392973553446
+    second: sword-slash-90656d01_99
+  - first:
+      213: 4043896223135548443
+    second: sword-slash-90656d01_100
+  - first:
+      213: -5257909671678648011
+    second: sword-slash-90656d01_101
+  - first:
+      213: -8868628383862819553
+    second: sword-slash-90656d01_102
+  - first:
+      213: 154789987665096834
+    second: sword-slash-90656d01_103
+  - first:
+      213: -4714971153887082381
+    second: sword-slash-90656d01_104
+  - first:
+      213: 7229616557019614554
+    second: sword-slash-90656d01_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword-slash-90656d01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5903ce7f55e9390800000000000000
+      internalID: -7809710180505971216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 416
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2bebb1dc9275560800000000000000
+      internalID: 7302351281715065588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 416
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec5aab39e3296b00800000000000000
+      internalID: 822227891607198957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 416
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a37d405f4d09680800000000000000
+      internalID: -8750259927167583626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 416
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586f841fbaf9686b0800000000000000
+      internalID: -5294368751091124603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11695232746ed70800000000000000
+      internalID: 9072016715664462272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 312
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c55d83b54ac9d30800000000000000
+      internalID: 4439604044382952605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 312
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92577da68b9a4170800000000000000
+      internalID: 8163508277300646559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 312
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7748a4fac686da30800000000000000
+      internalID: 4239724305462085503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 312
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d85354be92a15a0800000000000000
+      internalID: -6549876617601774323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91593fa5e2db31290800000000000000
+      internalID: -7920779312822512359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 208
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f072f1477bb16b370800000000000000
+      internalID: 8337882234864215823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e095e1852d9de8790800000000000000
+      internalID: -7525838429844776690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 208
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94698f8069e903f70800000000000000
+      internalID: 9164999608931751497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 208
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc78e659234f5c3c0800000000000000
+      internalID: -4339794167809013812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a23edabd1771f0800000000000000
+      internalID: -1047335699911368001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 104
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68df2c1dc5da2caa0800000000000000
+      internalID: -6142156327612121722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-slash-90656d01_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 104
+        width: 136
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aa66f16c8964740800000000000000
+      internalID: 5135960401760397905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a2a25ef2fff9a5543a68496b50f2373b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":136.0,"y":104.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sword-slash-90656d01_0: -7809710180505971216
+      sword-slash-90656d01_1: 7302351281715065588
+      sword-slash-90656d01_10: -7920779312822512359
+      sword-slash-90656d01_11: 8337882234864215823
+      sword-slash-90656d01_12: -7525838429844776690
+      sword-slash-90656d01_13: 9164999608931751497
+      sword-slash-90656d01_14: -4339794167809013812
+      sword-slash-90656d01_15: -1047335699911368001
+      sword-slash-90656d01_16: -6142156327612121722
+      sword-slash-90656d01_17: 5135960401760397905
+      sword-slash-90656d01_2: 822227891607198957
+      sword-slash-90656d01_3: -8750259927167583626
+      sword-slash-90656d01_4: -5294368751091124603
+      sword-slash-90656d01_5: 9072016715664462272
+      sword-slash-90656d01_6: 4439604044382952605
+      sword-slash-90656d01_7: 8163508277300646559
+      sword-slash-90656d01_8: 4239724305462085503
+      sword-slash-90656d01_9: -6549876617601774323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
