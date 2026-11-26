@@ -9,19 +9,12 @@ public class SkillEffect : MonoBehaviour
     public LayerMask hitLayers;
     public bool pierceEnemy = false;
 
-    [Header("Góc xoay hình theo hướng nhìn của Player")]
-    public Vector3 rotationFacingRight = new Vector3(0f, 0f, -110f);
-    public Vector3 rotationFacingLeft  = new Vector3(180f, 0f, 70f);
-
     [HideInInspector] public Vector2 direction = Vector2.right;
 
     // Gọi ngay sau Instantiate: đặt hướng bay + góc xoay hình
     public void Launch(Vector2 dir)
     {
         direction = dir.sqrMagnitude > 0.0001f ? dir.normalized : Vector2.right;
-
-        bool facingRight = direction.x >= 0f;
-        transform.rotation = Quaternion.Euler(facingRight ? rotationFacingRight : rotationFacingLeft);
     }
 
     void Start() => Destroy(gameObject, lifeTime);

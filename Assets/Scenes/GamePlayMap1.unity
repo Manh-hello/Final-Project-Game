@@ -654,15 +654,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 897226619}
-        m_TargetAssemblyTypeName: PlayerSkills, Assembly-CSharp
-        m_MethodName: UseSkill
-        m_Mode: 3
+        m_TargetAssemblyTypeName: SkillManager, Assembly-CSharp
+        m_MethodName: UseById
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: dragon_meteor
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &387068483
@@ -1002,6 +1002,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1659684035}
+  - {fileID: 1260374489}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &897226619
@@ -1013,19 +1014,114 @@ MonoBehaviour:
   m_GameObject: {fileID: 897226612}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb0174126d8ba0c4cb974d64bf377663, type: 3}
+  m_Script: {fileID: 11500000, guid: 9249fd3d07ea4de498f2644308dd50f5, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerSkills
+  m_EditorClassIdentifier: Assembly-CSharp::SkillManager
   skills:
-  - name: 
-    effectPrefab: {fileID: 4317327220282537393, guid: f6ead368b9e00ea43875a11b024223de, type: 3}
+  - id: dragon_attack
+    effectPrefab: {fileID: 5667212401999844694, guid: 6104fd5a5dda71547ad1cb2fe869173d, type: 3}
     spawnPoint: {fileID: 1659684035}
     cooldown: 0
-    animTrigger: Attack
+    animTrigger: 
     cooldownImage: {fileID: 0}
-    aimDirection: {x: 1, y: -1}
+    hotkey: 24
+    moveForward: 1
+    speed: 8
+    lifeTime: 3
+    aimDirectionRight: {x: 1, y: -1}
+    aimDirectionLeft: {x: -1, y: -1}
+    overrideSize: 0
+    size: {x: 0, y: 0}
+    overrideRotation: 1
+    rotationFacingRight: {x: 0, y: 0, z: -100}
+    rotationFacingLeft: {x: 180, y: 0, z: 80}
+    nextReadyTime: 0
+  - id: fire_breath
+    effectPrefab: {fileID: 852445720605447422, guid: 9931d789b54f0304ead59d70b5ae9738, type: 3}
+    spawnPoint: {fileID: 1260374489}
+    cooldown: 0
+    animTrigger: 
+    cooldownImage: {fileID: 0}
+    hotkey: 25
+    moveForward: 0
+    speed: 8
+    lifeTime: 3
+    aimDirectionRight: {x: 1, y: -1}
+    aimDirectionLeft: {x: -1, y: -1}
+    overrideSize: 0
+    size: {x: 0, y: 0}
+    overrideRotation: 1
+    rotationFacingRight: {x: 0, y: 0, z: -45}
+    rotationFacingLeft: {x: 0, y: 0, z: 225}
+    nextReadyTime: 0
+  - id: dragon_meteor
+    effectPrefab: {fileID: 1803243054629144641, guid: 25634173104c2a7468d78109c425817c, type: 3}
+    spawnPoint: {fileID: 1260374489}
+    cooldown: 0
+    animTrigger: 
+    cooldownImage: {fileID: 0}
+    hotkey: 26
+    moveForward: 1
+    speed: 8
+    lifeTime: 3
+    aimDirectionRight: {x: 1, y: -1}
+    aimDirectionLeft: {x: -1, y: -1}
+    overrideSize: 0
+    size: {x: 0, y: 0}
+    overrideRotation: 1
+    rotationFacingRight: {x: 0, y: 0, z: 0}
+    rotationFacingLeft: {x: 0, y: 0, z: -90}
+    nextReadyTime: 0
+  - id: dragon_echo
+    effectPrefab: {fileID: 2080388041598007306, guid: 9f47bff4f0bac184a880cc556dfbe767, type: 3}
+    spawnPoint: {fileID: 1260374489}
+    cooldown: 0
+    animTrigger: 
+    cooldownImage: {fileID: 0}
+    hotkey: 23
+    moveForward: 1
+    speed: 8
+    lifeTime: 3
+    aimDirectionRight: {x: 1, y: -1}
+    aimDirectionLeft: {x: -1, y: -1}
+    overrideSize: 0
+    size: {x: 0, y: 0}
+    overrideRotation: 1
+    rotationFacingRight: {x: 0, y: 0, z: -45}
+    rotationFacingLeft: {x: 0, y: 0, z: 225}
     nextReadyTime: 0
   sprite: {fileID: 0}
+--- !u!1 &1260374488
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1260374489}
+  m_Layer: 0
+  m_Name: FirePoint2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1260374489
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260374488}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.3, y: -1.2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897226618}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1357274901
 GameObject:
   m_ObjectHideFlags: 0
@@ -1268,15 +1364,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 897226619}
-        m_TargetAssemblyTypeName: PlayerSkills, Assembly-CSharp
-        m_MethodName: UseSkill
-        m_Mode: 3
+        m_TargetAssemblyTypeName: SkillManager, Assembly-CSharp
+        m_MethodName: UseById
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: dragon_attack
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1737971181
@@ -1515,15 +1611,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 897226619}
-        m_TargetAssemblyTypeName: PlayerSkills, Assembly-CSharp
-        m_MethodName: UseSkill
-        m_Mode: 3
+        m_TargetAssemblyTypeName: SkillManager, Assembly-CSharp
+        m_MethodName: UseById
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: fire_breath
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1902224057
@@ -1725,15 +1821,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 897226619}
-        m_TargetAssemblyTypeName: PlayerSkills, Assembly-CSharp
-        m_MethodName: UseSkill
-        m_Mode: 3
+        m_TargetAssemblyTypeName: SkillManager, Assembly-CSharp
+        m_MethodName: UseById
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: dragon_echo
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2046256429

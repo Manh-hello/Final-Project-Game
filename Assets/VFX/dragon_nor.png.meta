@@ -1,325 +1,325 @@
 fileFormatVersion: 2
-guid: fd2afa27c40a71146bece999e363251e
+guid: 59f44aea418405e4e898fa5375f48fb0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7809710180505971216
-    second: sword-slash-90656d01_0
+      213: 5735984292343536926
+    second: dragon_nor_0
   - first:
-      213: 7302351281715065588
-    second: sword-slash-90656d01_1
+      213: -2438864603389969250
+    second: dragon_nor_1
   - first:
-      213: 822227891607198957
-    second: sword-slash-90656d01_2
+      213: -8772019216021729104
+    second: dragon_nor_2
   - first:
-      213: -8750259927167583626
-    second: sword-slash-90656d01_3
+      213: 6166010234925137166
+    second: dragon_nor_3
   - first:
-      213: -5294368751091124603
-    second: sword-slash-90656d01_4
+      213: -40843649371390332
+    second: dragon_nor_4
   - first:
-      213: 9072016715664462272
-    second: sword-slash-90656d01_5
+      213: -8891265644254443415
+    second: dragon_nor_5
   - first:
-      213: 4439604044382952605
-    second: sword-slash-90656d01_6
+      213: -1225402858620322111
+    second: dragon_nor_6
   - first:
-      213: 8163508277300646559
-    second: sword-slash-90656d01_7
+      213: -1643350936572366523
+    second: dragon_nor_7
   - first:
-      213: 4239724305462085503
-    second: sword-slash-90656d01_8
+      213: -5888607568655833918
+    second: dragon_nor_8
   - first:
-      213: -6549876617601774323
-    second: sword-slash-90656d01_9
+      213: 7271310447740233589
+    second: dragon_nor_9
   - first:
-      213: -7920779312822512359
-    second: sword-slash-90656d01_10
+      213: -9151698292828886830
+    second: dragon_nor_10
   - first:
-      213: 8337882234864215823
-    second: sword-slash-90656d01_11
+      213: 4456686247243091641
+    second: dragon_nor_11
   - first:
-      213: -7525838429844776690
-    second: sword-slash-90656d01_12
+      213: 7924320966905342575
+    second: dragon_nor_12
   - first:
-      213: 9164999608931751497
-    second: sword-slash-90656d01_13
+      213: -1031998609913221925
+    second: dragon_nor_13
   - first:
-      213: -4339794167809013812
-    second: sword-slash-90656d01_14
+      213: 1550572518075918313
+    second: dragon_nor_14
   - first:
-      213: -1047335699911368001
-    second: sword-slash-90656d01_15
+      213: 6022219883598210561
+    second: dragon_nor_15
   - first:
-      213: -6142156327612121722
-    second: sword-slash-90656d01_16
+      213: 8756067258255642178
+    second: dragon_nor_16
   - first:
-      213: 5135960401760397905
-    second: sword-slash-90656d01_17
+      213: 7597166675383504408
+    second: dragon_nor_17
   - first:
-      213: -6855696984403289894
-    second: sword-slash-90656d01_18
+      213: 4071453586347584027
+    second: dragon_nor_18
   - first:
-      213: 1584923455448382598
-    second: sword-slash-90656d01_19
+      213: 8171186509299543015
+    second: dragon_nor_19
   - first:
-      213: 8712497231002128685
-    second: sword-slash-90656d01_20
+      213: -5032789967235716080
+    second: dragon_nor_20
   - first:
-      213: -20298468095452929
-    second: sword-slash-90656d01_21
+      213: 8132470710724240541
+    second: dragon_nor_21
   - first:
-      213: 4138607201720661496
-    second: sword-slash-90656d01_22
+      213: 3669156446885622049
+    second: dragon_nor_22
   - first:
-      213: -3401465694510229454
-    second: sword-slash-90656d01_23
+      213: -6800667834456965388
+    second: dragon_nor_23
   - first:
-      213: 4037793754622882398
-    second: sword-slash-90656d01_24
+      213: 4896251323824743736
+    second: dragon_nor_24
   - first:
-      213: 6993852760495081599
-    second: sword-slash-90656d01_25
+      213: 7625796700351359409
+    second: dragon_nor_25
   - first:
-      213: -1528214344080461355
-    second: sword-slash-90656d01_26
+      213: -2225408311721820838
+    second: dragon_nor_26
   - first:
-      213: -4817114124643650701
-    second: sword-slash-90656d01_27
+      213: -4417843194447173759
+    second: dragon_nor_27
   - first:
-      213: 1458726164712966634
-    second: sword-slash-90656d01_28
+      213: -5724568328556733897
+    second: dragon_nor_28
   - first:
-      213: -5744692268135816775
-    second: sword-slash-90656d01_29
+      213: -392771380890720514
+    second: dragon_nor_29
   - first:
-      213: 5540477000824224910
-    second: sword-slash-90656d01_30
+      213: -5560406500054989233
+    second: dragon_nor_30
   - first:
-      213: -680519413600778756
-    second: sword-slash-90656d01_31
+      213: 3664693780941917214
+    second: dragon_nor_31
   - first:
-      213: 3163853741683175686
-    second: sword-slash-90656d01_32
+      213: -2262596293870507471
+    second: dragon_nor_32
   - first:
-      213: -394265924214063978
-    second: sword-slash-90656d01_33
+      213: 3638726973546244083
+    second: dragon_nor_33
   - first:
-      213: -1985615238308468270
-    second: sword-slash-90656d01_34
+      213: -6252699141087487043
+    second: dragon_nor_34
   - first:
-      213: 5295726653333146382
-    second: sword-slash-90656d01_35
+      213: 6167271262088220034
+    second: dragon_nor_35
   - first:
-      213: -6463990018140763949
-    second: sword-slash-90656d01_36
+      213: -2835261936092989035
+    second: dragon_nor_36
   - first:
-      213: -1944807816042928523
-    second: sword-slash-90656d01_37
+      213: -562790159837258031
+    second: dragon_nor_37
   - first:
-      213: -7280181196065082333
-    second: sword-slash-90656d01_38
+      213: -4604263046989898099
+    second: dragon_nor_38
   - first:
-      213: 3821770268324778531
-    second: sword-slash-90656d01_39
+      213: 7382431073885056107
+    second: dragon_nor_39
   - first:
-      213: 7189014119689362321
-    second: sword-slash-90656d01_40
+      213: -8576234308680258296
+    second: dragon_nor_40
   - first:
-      213: -5565561454610547924
-    second: sword-slash-90656d01_41
+      213: 8890056315102038301
+    second: dragon_nor_41
   - first:
-      213: -8216421402642023397
-    second: sword-slash-90656d01_42
+      213: 830765209298607906
+    second: dragon_nor_42
   - first:
-      213: 8161809464041371446
-    second: sword-slash-90656d01_43
+      213: 7035829825000232471
+    second: dragon_nor_43
   - first:
-      213: 7272137408227089145
-    second: sword-slash-90656d01_44
+      213: -2333232893557363335
+    second: dragon_nor_44
   - first:
-      213: -5271063837974725461
-    second: sword-slash-90656d01_45
+      213: -3561959578849907319
+    second: dragon_nor_45
   - first:
-      213: -1111312815681573667
-    second: sword-slash-90656d01_46
+      213: 6943629427139191381
+    second: dragon_nor_46
   - first:
-      213: 2862896780884929874
-    second: sword-slash-90656d01_47
+      213: 1239287089815777853
+    second: dragon_nor_47
   - first:
-      213: 3443396476548314276
-    second: sword-slash-90656d01_48
+      213: -6275046111455679132
+    second: dragon_nor_48
   - first:
-      213: 2462667871103538620
-    second: sword-slash-90656d01_49
+      213: -575435839230865692
+    second: dragon_nor_49
   - first:
-      213: -3894638939874626873
-    second: sword-slash-90656d01_50
+      213: -4808085351640149936
+    second: dragon_nor_50
   - first:
-      213: 1441039934714267424
-    second: sword-slash-90656d01_51
+      213: -8882394402603227689
+    second: dragon_nor_51
   - first:
-      213: 7541724354370456956
-    second: sword-slash-90656d01_52
+      213: -9158136787641969913
+    second: dragon_nor_52
   - first:
-      213: 8857993633236600874
-    second: sword-slash-90656d01_53
+      213: -7165197435201543423
+    second: dragon_nor_53
   - first:
-      213: 8717409785041455367
-    second: sword-slash-90656d01_54
+      213: -5531014456443005288
+    second: dragon_nor_54
   - first:
-      213: -650442982431113032
-    second: sword-slash-90656d01_55
+      213: -1594708802562151909
+    second: dragon_nor_55
   - first:
-      213: -2268867954345602275
-    second: sword-slash-90656d01_56
+      213: 5733816774265648862
+    second: dragon_nor_56
   - first:
-      213: 6391432101928293976
-    second: sword-slash-90656d01_57
+      213: -7030730876915343796
+    second: dragon_nor_57
   - first:
-      213: -5874924608295199240
-    second: sword-slash-90656d01_58
+      213: 2495714677033671707
+    second: dragon_nor_58
   - first:
-      213: 8758279122752256984
-    second: sword-slash-90656d01_59
+      213: -4817016168549784418
+    second: dragon_nor_59
   - first:
-      213: 1813789046015330477
-    second: sword-slash-90656d01_60
+      213: 2018175978371820694
+    second: dragon_nor_60
   - first:
-      213: -3512651459365836711
-    second: sword-slash-90656d01_61
+      213: -1353124713979623970
+    second: dragon_nor_61
   - first:
-      213: -1324096292713590974
-    second: sword-slash-90656d01_62
+      213: 3487602038665408119
+    second: dragon_nor_62
   - first:
-      213: 3742623529714969170
-    second: sword-slash-90656d01_63
+      213: 8116648281459687447
+    second: dragon_nor_63
   - first:
-      213: 7988331362939900195
-    second: sword-slash-90656d01_64
+      213: -2808864552232506722
+    second: dragon_nor_64
   - first:
-      213: -2500831317888488361
-    second: sword-slash-90656d01_65
+      213: 1419440805269151727
+    second: dragon_nor_65
   - first:
-      213: 2306927490133218526
-    second: sword-slash-90656d01_66
+      213: -4799748174731851885
+    second: dragon_nor_66
   - first:
-      213: 3319045933755506527
-    second: sword-slash-90656d01_67
+      213: -6152190980980180787
+    second: dragon_nor_67
   - first:
-      213: 4735474169066940081
-    second: sword-slash-90656d01_68
+      213: 325463654152024232
+    second: dragon_nor_68
   - first:
-      213: 1784846082125223276
-    second: sword-slash-90656d01_69
+      213: 7680373276198251921
+    second: dragon_nor_69
   - first:
-      213: 3817979339808178223
-    second: sword-slash-90656d01_70
+      213: -5590688794039667700
+    second: dragon_nor_70
   - first:
-      213: 6079433017348154359
-    second: sword-slash-90656d01_71
+      213: -7891610722097557757
+    second: dragon_nor_71
   - first:
-      213: 4542260993861730934
-    second: sword-slash-90656d01_72
+      213: -6245836895654100457
+    second: dragon_nor_72
   - first:
-      213: -261816057652591956
-    second: sword-slash-90656d01_73
+      213: -8798184115526783788
+    second: dragon_nor_73
   - first:
-      213: -6864920564283987759
-    second: sword-slash-90656d01_74
+      213: -6220921385056746832
+    second: dragon_nor_74
   - first:
-      213: 941654484532866215
-    second: sword-slash-90656d01_75
+      213: 5382359328377064770
+    second: dragon_nor_75
   - first:
-      213: 31856197347171158
-    second: sword-slash-90656d01_76
+      213: 3074170293836321399
+    second: dragon_nor_76
   - first:
-      213: 282427764895744579
-    second: sword-slash-90656d01_77
+      213: 5709390741069692287
+    second: dragon_nor_77
   - first:
-      213: -9037958249746090207
-    second: sword-slash-90656d01_78
+      213: 6965204797069532376
+    second: dragon_nor_78
   - first:
-      213: 1807659015188223461
-    second: sword-slash-90656d01_79
+      213: 3460833442215749434
+    second: dragon_nor_79
   - first:
-      213: -1060054733581591742
-    second: sword-slash-90656d01_80
+      213: 4748975944622227163
+    second: dragon_nor_80
   - first:
-      213: 7518230203620745728
-    second: sword-slash-90656d01_81
+      213: -4685248946323703720
+    second: dragon_nor_81
   - first:
-      213: -1329713171219798862
-    second: sword-slash-90656d01_82
+      213: 3761118401498377609
+    second: dragon_nor_82
   - first:
-      213: 5337447693580794593
-    second: sword-slash-90656d01_83
+      213: 1081012433878073803
+    second: dragon_nor_83
   - first:
-      213: 8481000272980167509
-    second: sword-slash-90656d01_84
+      213: 5704899380897418387
+    second: dragon_nor_84
   - first:
-      213: 7334938633732041867
-    second: sword-slash-90656d01_85
+      213: 820065724597620354
+    second: dragon_nor_85
   - first:
-      213: -984888678794972948
-    second: sword-slash-90656d01_86
+      213: 3081064597744584876
+    second: dragon_nor_86
   - first:
-      213: 4294812465585137572
-    second: sword-slash-90656d01_87
+      213: -5808502386857607677
+    second: dragon_nor_87
   - first:
-      213: -799336999280315024
-    second: sword-slash-90656d01_88
+      213: -4931923157732479825
+    second: dragon_nor_88
   - first:
-      213: 4344746143942326591
-    second: sword-slash-90656d01_89
+      213: -8940858216366247438
+    second: dragon_nor_89
   - first:
-      213: -6676111846869067949
-    second: sword-slash-90656d01_90
+      213: -6272463585996257777
+    second: dragon_nor_90
   - first:
-      213: 6145404399965118991
-    second: sword-slash-90656d01_91
+      213: -5093742532062977978
+    second: dragon_nor_91
   - first:
-      213: -1696108473711209759
-    second: sword-slash-90656d01_92
+      213: -5441266620027169854
+    second: dragon_nor_92
   - first:
-      213: 7208989750057893769
-    second: sword-slash-90656d01_93
+      213: 1893477086688013153
+    second: dragon_nor_93
   - first:
-      213: -9145521896475292479
-    second: sword-slash-90656d01_94
+      213: -7667134658780689759
+    second: dragon_nor_94
   - first:
-      213: -7795056574881604837
-    second: sword-slash-90656d01_95
+      213: -6025069552508312433
+    second: dragon_nor_95
   - first:
-      213: 7316664999444605218
-    second: sword-slash-90656d01_96
+      213: 527981068056938790
+    second: dragon_nor_96
   - first:
-      213: 5194547152294783000
-    second: sword-slash-90656d01_97
+      213: -8396590864147409615
+    second: dragon_nor_97
   - first:
-      213: 1671133362596374405
-    second: sword-slash-90656d01_98
+      213: -442442058135708587
+    second: dragon_nor_98
   - first:
-      213: -7593057392973553446
-    second: sword-slash-90656d01_99
+      213: 5316932651325564389
+    second: dragon_nor_99
   - first:
-      213: 4043896223135548443
-    second: sword-slash-90656d01_100
+      213: 5079144483835709456
+    second: dragon_nor_100
   - first:
-      213: -5257909671678648011
-    second: sword-slash-90656d01_101
+      213: -2282952862240229136
+    second: dragon_nor_101
   - first:
-      213: -8868628383862819553
-    second: sword-slash-90656d01_102
+      213: -3643451453502436238
+    second: dragon_nor_102
   - first:
-      213: 154789987665096834
-    second: sword-slash-90656d01_103
+      213: -2499170943529433121
+    second: dragon_nor_103
   - first:
-      213: -4714971153887082381
-    second: sword-slash-90656d01_104
+      213: 8014574493352632570
+    second: dragon_nor_104
   - first:
-      213: 7229616557019614554
-    second: sword-slash-90656d01_105
+      213: -4613097748943067883
+    second: dragon_nor_105
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -352,7 +352,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -390,7 +390,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -428,7 +428,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sword-slash-90656d01_0
+      name: dragon_nor_0
       rect:
         serializedVersion: 2
         x: 0
@@ -443,14 +443,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f5903ce7f55e9390800000000000000
-      internalID: -7809710180505971216
+      spriteID: e1d5b56c25f4a9f40800000000000000
+      internalID: 5735984292343536926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_1
+      name: dragon_nor_1
       rect:
         serializedVersion: 2
         x: 136
@@ -465,14 +465,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f2bebb1dc9275560800000000000000
-      internalID: 7302351281715065588
+      spriteID: e9cbaab9099672ed0800000000000000
+      internalID: -2438864603389969250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_2
+      name: dragon_nor_2
       rect:
         serializedVersion: 2
         x: 272
@@ -487,14 +487,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dec5aab39e3296b00800000000000000
-      internalID: 822227891607198957
+      spriteID: 0b0df1acff6834680800000000000000
+      internalID: -8772019216021729104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_3
+      name: dragon_nor_3
       rect:
         serializedVersion: 2
         x: 408
@@ -509,14 +509,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67a37d405f4d09680800000000000000
-      internalID: -8750259927167583626
+      spriteID: e0db226c3a1129550800000000000000
+      internalID: 6166010234925137166
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_4
+      name: dragon_nor_4
       rect:
         serializedVersion: 2
         x: 544
@@ -531,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 586f841fbaf9686b0800000000000000
-      internalID: -5294368751091124603
+      spriteID: 48e33e3dae4ee6ff0800000000000000
+      internalID: -40843649371390332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_5
+      name: dragon_nor_5
       rect:
         serializedVersion: 2
         x: 0
@@ -553,14 +553,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c11695232746ed70800000000000000
-      internalID: 9072016715664462272
+      spriteID: 96844962101eb9480800000000000000
+      internalID: -8891265644254443415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_6
+      name: dragon_nor_6
       rect:
         serializedVersion: 2
         x: 136
@@ -575,14 +575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9c55d83b54ac9d30800000000000000
-      internalID: 4439604044382952605
+      spriteID: 1ceff21b79e7efee0800000000000000
+      internalID: -1225402858620322111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_7
+      name: dragon_nor_7
       rect:
         serializedVersion: 2
         x: 272
@@ -597,14 +597,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f92577da68b9a4170800000000000000
-      internalID: 8163508277300646559
+      spriteID: 5417c40b705a139e0800000000000000
+      internalID: -1643350936572366523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_8
+      name: dragon_nor_8
       rect:
         serializedVersion: 2
         x: 408
@@ -619,14 +619,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7748a4fac686da30800000000000000
-      internalID: 4239724305462085503
+      spriteID: 2c4a7909d96774ea0800000000000000
+      internalID: -5888607568655833918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_9
+      name: dragon_nor_9
       rect:
         serializedVersion: 2
         x: 544
@@ -641,14 +641,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0d85354be92a15a0800000000000000
-      internalID: -6549876617601774323
+      spriteID: 577a421c352e8e460800000000000000
+      internalID: 7271310447740233589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_10
+      name: dragon_nor_10
       rect:
         serializedVersion: 2
         x: 0
@@ -663,14 +663,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91593fa5e2db31290800000000000000
-      internalID: -7920779312822512359
+      spriteID: 2d8a264f3e2aef080800000000000000
+      internalID: -9151698292828886830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_11
+      name: dragon_nor_11
       rect:
         serializedVersion: 2
         x: 136
@@ -685,14 +685,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f072f1477bb16b370800000000000000
-      internalID: 8337882234864215823
+      spriteID: 9be0b42878459dd30800000000000000
+      internalID: 4456686247243091641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_12
+      name: dragon_nor_12
       rect:
         serializedVersion: 2
         x: 272
@@ -707,14 +707,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e095e1852d9de8790800000000000000
-      internalID: -7525838429844776690
+      spriteID: f6aa29e3fe7d8fd60800000000000000
+      internalID: 7924320966905342575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_13
+      name: dragon_nor_13
       rect:
         serializedVersion: 2
         x: 408
@@ -729,14 +729,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 94698f8069e903f70800000000000000
-      internalID: 9164999608931751497
+      spriteID: bdcec676bba9da1f0800000000000000
+      internalID: -1031998609913221925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_14
+      name: dragon_nor_14
       rect:
         serializedVersion: 2
         x: 544
@@ -751,14 +751,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc78e659234f5c3c0800000000000000
-      internalID: -4339794167809013812
+      spriteID: 9e7e56a6d7db48510800000000000000
+      internalID: 1550572518075918313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_15
+      name: dragon_nor_15
       rect:
         serializedVersion: 2
         x: 0
@@ -773,14 +773,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb2a23edabd1771f0800000000000000
-      internalID: -1047335699911368001
+      spriteID: 1066a29b319339350800000000000000
+      internalID: 6022219883598210561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_16
+      name: dragon_nor_16
       rect:
         serializedVersion: 2
         x: 136
@@ -795,14 +795,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68df2c1dc5da2caa0800000000000000
-      internalID: -6142156327612121722
+      spriteID: 24e81cd97ccc38970800000000000000
+      internalID: 8756067258255642178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sword-slash-90656d01_17
+      name: dragon_nor_17
       rect:
         serializedVersion: 2
         x: 272
@@ -817,8 +817,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15aa66f16c8964740800000000000000
-      internalID: 5135960401760397905
+      spriteID: 81e4ba9f6de8e6960800000000000000
+      internalID: 7597166675383504408
       vertices: []
       indices: 
       edges: []
@@ -827,7 +827,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: a2a25ef2fff9a5543a68496b50f2373b
+    spriteID: cf1bf58ffeb401f4ca190f95eefff14a
     internalID: 0
     vertices: []
     indices: 
@@ -839,24 +839,24 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":136.0,"y":104.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      sword-slash-90656d01_0: -7809710180505971216
-      sword-slash-90656d01_1: 7302351281715065588
-      sword-slash-90656d01_10: -7920779312822512359
-      sword-slash-90656d01_11: 8337882234864215823
-      sword-slash-90656d01_12: -7525838429844776690
-      sword-slash-90656d01_13: 9164999608931751497
-      sword-slash-90656d01_14: -4339794167809013812
-      sword-slash-90656d01_15: -1047335699911368001
-      sword-slash-90656d01_16: -6142156327612121722
-      sword-slash-90656d01_17: 5135960401760397905
-      sword-slash-90656d01_2: 822227891607198957
-      sword-slash-90656d01_3: -8750259927167583626
-      sword-slash-90656d01_4: -5294368751091124603
-      sword-slash-90656d01_5: 9072016715664462272
-      sword-slash-90656d01_6: 4439604044382952605
-      sword-slash-90656d01_7: 8163508277300646559
-      sword-slash-90656d01_8: 4239724305462085503
-      sword-slash-90656d01_9: -6549876617601774323
+      dragon_nor_0: 5735984292343536926
+      dragon_nor_1: -2438864603389969250
+      dragon_nor_10: -9151698292828886830
+      dragon_nor_11: 4456686247243091641
+      dragon_nor_12: 7924320966905342575
+      dragon_nor_13: -1031998609913221925
+      dragon_nor_14: 1550572518075918313
+      dragon_nor_15: 6022219883598210561
+      dragon_nor_16: 8756067258255642178
+      dragon_nor_17: 7597166675383504408
+      dragon_nor_2: -8772019216021729104
+      dragon_nor_3: 6166010234925137166
+      dragon_nor_4: -40843649371390332
+      dragon_nor_5: -8891265644254443415
+      dragon_nor_6: -1225402858620322111
+      dragon_nor_7: -1643350936572366523
+      dragon_nor_8: -5888607568655833918
+      dragon_nor_9: 7271310447740233589
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
